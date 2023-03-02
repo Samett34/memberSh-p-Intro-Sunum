@@ -1,4 +1,4 @@
-# memberShip-Intro-Sunum
+# memberShıp-Intro-Sunum
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
